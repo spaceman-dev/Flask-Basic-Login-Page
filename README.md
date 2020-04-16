@@ -19,4 +19,4 @@ CREATE TABLE IF NOT EXISTS `accounts` (
 INSERT INTO `accounts` (`id`, `username`, `password`, `email`) VALUES (1, 'test', 'test', 'test@test.com');
 ```
 * flask run
-* open [http://localhost:5000/pythonlogin/](http://localhost:5000/pythonlogin/) on system
+* open [http://localhost:5000/pythonlogin/](http://localhost:5000/pythonlogin/)
